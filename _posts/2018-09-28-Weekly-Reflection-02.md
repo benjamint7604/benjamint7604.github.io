@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Benjamin Ty, AFSE Student, Launches Site"
+title: "Benjamin Ty, AFSE Student, Week #1"
 date: 2018-09-28
 ---
 
