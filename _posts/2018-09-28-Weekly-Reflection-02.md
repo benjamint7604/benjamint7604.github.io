@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Benjamin Ty, AFSE Student, Week #1"
+title: "Benjamin Ty, AFSE Student, Week #2"
 date: 2018-09-28
 ---
 
