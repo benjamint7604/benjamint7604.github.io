@@ -8,7 +8,7 @@ This week we learned about Function Definitions, and with these function definit
 
 As said before:
 > The things happening behind the scenes 
-> is somethine we don't need to worry about.
+> is something we don't need to worry about.
 > We call this the abstraction barrier...
 
 And thats all we really have done throughout the week and I feel like the lesson plan was productive and I have no problems with any of the concepts being learned in class so far.
