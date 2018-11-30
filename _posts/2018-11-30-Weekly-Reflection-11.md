@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Benjamin Ty, AFSE Student, Week #8,"
-date: 2018-11-9
+title: "Benjamin Ty, AFSE Student, Week #11,"
+date: 2018-11-30
 ---
 
 At the beginning of the week we took our Lower Academy Computer Science Midterm Exam. With this we reviewed multiple mastery skills. We reviewed Mastery Skill 1, 3, 5. With these mastery skills displayed throughout the test with different levels of questions allowed us to assess what skill level we would be at. There were many interesting questions throughout the test, and some are worthy to talk about. One that is worthy to talk about is question number 16. 
